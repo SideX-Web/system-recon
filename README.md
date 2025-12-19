@@ -45,5 +45,6 @@
 
 ```bash
 git clone https://github.com/SideX-Web/system-recon
-cd system-recon
 pip install -r requirements.txt
+cd src
+python3 system_recon.py
