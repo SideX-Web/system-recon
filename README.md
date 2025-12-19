@@ -1,6 +1,4 @@
----
-
-## README.md (Türkçe)
+## README.md
 
 ```md
 <p align="center">
