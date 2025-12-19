@@ -1,4 +1,6 @@
-## README.md
+---
+
+## README.md (Türkçe)
 
 ```md
 <p align="center">
@@ -98,3 +100,5 @@ pip install -r requirements.txt
 git clone https://github.com/USERNAME/system-recon.git
 cd system-recon
 pip install -r requirements.txt
+
+---
