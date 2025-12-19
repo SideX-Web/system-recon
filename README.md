@@ -1,7 +1,7 @@
 
 ---
 
-## 3️⃣ README_TR.md (Türkçe)
+## 3️⃣ README.md
 
 ```md
 <p align="center">
