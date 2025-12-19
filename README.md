@@ -1,59 +1,102 @@
-🛰️ System Recon Tool
-Python ile yazılmış gelişmiş bir sistem ve ağ keşif (reconnaissance) aracıdır.
-Eğitim, sistem analizi ve yetkili güvenlik testleri için tasarlanmıştır.
+---
 
-🇹🇷 Türkçe
+## README.md (Türkçe)
 
-🚀 Özellikler
-Sistem bilgilerini toplama (OS, CPU, RAM, Disk)
-Ağ arayüzleri ve IP bilgileri
-Açık port taraması
-Yerel ağdaki cihazları keşfetme
-Çalışan prosesleri listeleme
-Donanım istatistikleri
-Sonuçları JSON rapor olarak kaydetme
-Renkli ve okunabilir terminal arayüzü
+```md
+<p align="center">
+  <img src="images/banner.png" width="700">
+</p>
 
-🛠 Kurulum
-git clone https://github.com/KULLANICI_ADIN/system-recon.git
-cd system-recon
-pip install -r requirements.txt
+<h1 align="center">🛰️ System Recon Tool</h1>
 
-▶ Kullanım
-sudo python3 src/system_recon.py
+<p align="center">
+  Python ile yazılmış gelişmiş sistem ve ağ keşif aracı
+</p>
 
-⚠️ Bazı ağ ve sistem özellikleri için sudo / yönetici yetkisi gerekebilir.
-Bu dosya; sistem, ağ, port ve proses bilgilerini içerir.
+---
 
-⚠️ Yasal Uyarı
-Bu araç yalnızca eğitim ve yetkili sistemler üzerinde test amacıyla kullanılmalıdır.
-İzinsiz kullanım tamamen kullanıcının sorumluluğundadır.
+## 🚀 Özellikler
 
+✔ Sistem bilgisi toplama  
+✔ Ağ arayüzü analizi  
+✔ Açık port taraması  
+✔ Yerel ağ keşfi  
+✔ Çalışan prosesleri listeleme  
+✔ Donanım istatistikleri  
+✔ JSON rapor çıktısı  
 
+---
 
-🇬🇧 English
+## 📸 Ekran Görüntüleri
 
-🚀 Features
-System information gathering (OS, CPU, RAM, Disk)
-Network interface and IP analysis
-Open port scanning
-Local network discovery
-Running process inspection
-Hardware statistics
-Export results as JSON report
-Colorful and readable terminal output
+### Sistem Bilgileri
+<img src="images/system_info.png" width="800">
 
-🛠 Installation
+### Ağ & Port Taraması
+<img src="images/network_scan.png" width="800">
+
+### Özet Rapor
+<img src="images/summary.png" width="800">
+
+---
+
+## 🛠 Kurulum
+
+```bash
 git clone https://github.com/USERNAME/system-recon.git
 cd system-recon
 pip install -r requirements.txt
 
-▶ Usage
-sudo python3 src/system_recon.py
+------------------------------------------------------------------
 
-⚠️ Some features require root / administrator privileges.
-This file contains system, network, port and process information.
+## README.md (Eng)
 
-⚠️ Disclaimer
-This tool is intended for educational purposes and authorized security testing only.
-The author is not responsible for misuse.
+<p align="center">
+  <img src="images/banner.png" width="700">
+</p>
+
+<h1 align="center">🛰️ System Recon Tool</h1>
+
+<p align="center">
+  Advanced System & Network Reconnaissance Tool written in Python
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8%2B-blue">
+  <img src="https://img.shields.io/badge/Platform-Linux%20%7C%20Windows-green">
+  <img src="https://img.shields.io/badge/License-MIT-yellow">
+</p>
+
+---
+
+## 🚀 Features
+
+✔ System information gathering  
+✔ Network interface analysis  
+✔ Open port scanning  
+✔ Local network discovery  
+✔ Running process inspection  
+✔ Hardware statistics  
+✔ JSON report export  
+
+---
+
+## 📸 Screenshots
+
+### System Information
+<img src="images/system_info.png" width="800">
+
+### Network & Port Scan
+<img src="images/network_scan.png" width="800">
+
+### Summary Report
+<img src="images/summary.png" width="800">
+
+---
+
+## 🛠 Installation
+
+```bash
+git clone https://github.com/USERNAME/system-recon.git
+cd system-recon
+pip install -r requirements.txt
